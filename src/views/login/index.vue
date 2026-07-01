@@ -5,7 +5,7 @@
 		</div>
 		<el-form ref="loginFromRef" class="login-form" :model="loginForm" :rules="loginRules">
 			<div class="title-container">
-				<h3 class="title">Vue3后台系统</h3>
+				<h3 class="title">个人博客管理系统</h3>
 			</div>
 
 			<el-form-item prop="username" style="display: flex;flex-direction: row">

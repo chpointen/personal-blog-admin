@@ -8,7 +8,7 @@
 			/>
 			<!-- 系统标题 -->
 			<h1 v-if="appStore.sidebarOpened" class="logo-title">
-				Vue3后台系统
+				个人博客管理系统
 			</h1>
 		</div>
 		<el-scrollbar>
